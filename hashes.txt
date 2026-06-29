@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ein Herz voller Sehnsucht
+
+This log tracks the cryptographic history and versioning for the song **Ein Herz voller Sehnsucht** (ein-herz-voller-sehnsucht).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T03:05:51.753701 | `v1` | `60cc1eccd3888809dd7ac63461832e40ddb8876f84d65145e72a5e3003314b2e` | `8d03f2d4cf06b98b0efefdab8c263036cdbd0e122de6d76e4889b1586ec30969` | `2026-06-30_ein-herz-voller-sehnsucht-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
