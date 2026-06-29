@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-herz-voller-sehnsucht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ein Herz voller Sehnsucht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-herz-voller-sehnsucht/) |
+| **Get License** | [Get a Licensing Quote for Ein Herz voller Sehnsucht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-herz-voller-sehnsucht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Blaues Neonlicht fällt direkt auf dein Gesicht
+> Ein Herz voller Sehnsucht, heute Nacht gibt's nur dich
+> Der Beat auf Repeat und der Bass drückt so schwer
+> Komm, rutsch bisschen näher, Baby, ich will noch mehr
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
